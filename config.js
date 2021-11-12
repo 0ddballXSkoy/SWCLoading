@@ -20,10 +20,10 @@ config.logo_use_image = true
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
-config.logo_image = "logo.png"
+config.logo_image = "501stDISCORD.png"
 
 // Text to be shown on logo
-config.logo_text = "SWC"
+config.logo_text = "501st"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -65,20 +65,14 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"DClassLoadingScreen.jpg",
-	"Alpha-1LoadingScreen.jpg",
+	"501.jpg",
+	"day.jpg",
 	"ARCFordoLoadingScreen.jpg",
-	"ARCLoadingScreen.jpg",
-	"MarshalCommanderLoadingScreen.jpg",
-	"MedicLoadingScreen.jpg",
-	"SCPLoadingScreen.jpg",
-	"SecurityAll.jpg",
-	"SecurityLoadingScreen.jpg",
-	"TaskforceLoadingScreen.jpg",
-	"TaskforceVSNutLoadingScreen.jpg",
-	"SWCDarkLoadingScreen.jpg",
-	"ARCFull.jpg",
-	"MarshalCommander.jpg",
+	"droid.jpg",
+	"jet.jpg",
+	"laat.jpg",
+	"night.jpg",
+	"space.jpg",
 ]
 
 // (Image-background only)
@@ -153,17 +147,13 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome To Star Wars Containment!",
+	"Welcome To 501st CWRP!",
 	"Developed By Oddball | Owned By Steez",
-	"Don't Die Like The Previous Battalion!",
+	"Don't Die!",
 	"Join Our Discord Server!",
 	"Your Mother Likes Us ;)",
-	"Working On A Custom Map!",
 	"Join Our Discord Server!",
-	"Twitch.tv/0ddball",
-	"SCPs Are Called SCs",
-	"How Do I Build A Boat?",
-	"Join Our Discord Server!",
+	"Join Our Discord!",
 	"What's Taking So Long?",
 ]
 
