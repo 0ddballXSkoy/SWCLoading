@@ -66,8 +66,10 @@ config.background_map_based = false
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
 	"501.jpg",
+	"501D.jpg",
+	"501M.jpg",
+	"501V.jpg",
 	"day.jpg",
-	"ARCFordoLoadingScreen.jpg",
 	"droid.jpg",
 	"jet.jpg",
 	"laat.jpg",
