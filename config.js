@@ -69,6 +69,7 @@ config.background_images = [
 	"501D.jpg",
 	"501M.jpg",
 	"501V.jpg",
+	"501F.jpg",
 	"day.jpg",
 	"droid.jpg",
 	"jet.jpg",
