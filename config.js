@@ -76,6 +76,9 @@ config.background_images = [
 	"laat.jpg",
 	"night.jpg",
 	"501C.jpg",
+	"501n1.jpg",
+	"501n2.jpg",
+	"501n3.jpg",
 ]
 
 // (Image-background only)
